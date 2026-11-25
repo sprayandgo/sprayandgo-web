@@ -1,0 +1,9 @@
+{
+  "name": "sprayandgo-web",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Página estática de Spray & Go",
+  "scripts": {
+    "build": "echo \"Sitio estático, no requiere build\""
+  }
+}
